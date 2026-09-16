@@ -18,10 +18,3 @@ vanilla game is not modified** - both stay playable side by side:
 - `Ziggurat\AoWzEd.exe` - the map editor, Ziggurat-oriented
 
 To uninstall, delete the `Ziggurat\` folder.
-
-## Notes
-
-The installer is unsigned, so Windows SmartScreen will warn on first run
-(*More info* -> *Run anyway*).
-
-Multiplayer requires every player to be on the same version.
