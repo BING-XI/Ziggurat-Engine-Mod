@@ -5,6 +5,9 @@ A total rebalance of Age of Wonders (1999).
 **[Read the manual](https://bing-xi.github.io/Ziggurat-Engine-Mod/)** - units, abilities,
 spells, structures and rules, with the vanilla value beside each change.
 
+**[Modding notes](https://github.com/BING-XI/Ziggurat-Modding-Notes)** - the reverse-engineering
+notes, patch scripts and toolkit behind the mod.
+
 ## Install
 
 Download the installer from [Releases](../../releases) and run it. It needs an existing
